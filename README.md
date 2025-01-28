@@ -34,7 +34,7 @@ Welcome to **KBC Game**, an interactive quiz game built to test your knowledge w
 1. **Register**:  
    Begin by entering your name.  
 
-   ![Login Page](/public/ss1.png)  
+   ![Login Page](ss1.png)  
 
 2. **Start the timer**:  
    Start the timer and get familiar with environment.  
