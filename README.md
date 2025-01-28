@@ -34,22 +34,22 @@ Welcome to **KBC Game**, an interactive quiz game built to test your knowledge w
 1. **Register**:  
    Begin by entering your name.  
 
-   ![Login Page](ss1.png)  
+   ![Login Page](kbc/public/ss1.png)  
 
 2. **Start the timer**:  
    Start the timer and get familiar with environment.  
 
-   ![Main page](ss2.png)  
+   ![Main page](kbc/public/ss2.png)  
 
 3. **Answer Questions**:  
    Select the correct answer within the time limit to score points.  
 
-   ![Quiz Gameplay](ss3.png)  
+   ![Quiz Gameplay](kbc/public/ss3.png)  
 
 4. **Use Lifelines**:  
    Use the **50:50 Lifeline** to eliminate two incorrect options and increase your chances of answering correctly.  
 
-   ![50:50 Lifeline](ss4.png)  
+   ![50:50 Lifeline](kbc/public/ss4.png)  
 
 ---
 
